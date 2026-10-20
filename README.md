@@ -89,7 +89,7 @@ http://your-ip:3000
 
 | Method | Endpoint                       | Description         |
 | ------ | ------------------------------ | ------------------- |
-| POST   | `/api/v1/auth/register`        | Register a new user |
+| POST   | `http://localhost:3000/api/v1/auth/register`        | Register a new user |
 | POST   | `/api/v1/auth/login`           | Login user          |
 | POST   | `/api/v1/auth/verify-email`    | Verify email        |
 | POST   | `/api/v1/auth/forgot-password` | Forgot password     |
